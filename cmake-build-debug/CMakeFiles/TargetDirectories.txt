@@ -1,0 +1,3 @@
+C:/Users/ivano/CLionProjects/secondCourse/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivano/CLionProjects/secondCourse/cmake-build-debug/CMakeFiles/secondCourse.dir
+C:/Users/ivano/CLionProjects/secondCourse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
